@@ -1,0 +1,17 @@
+controller\SertifikatiZaKomintentaJsonObject.class
+controller\SertifikatJsonObject.class
+controller\Person.class
+model\Sertifikati_.class
+service\Dao.class
+model\ProizvodjacDocument_.class
+model\LoginBean.class
+model\ProizvodjacDocument.class
+controller\PersonJsonObject.class
+model\FileBucket.class
+service\KupacManager.class
+model\Kupac.class
+controller\SpringMVCController.class
+service\DbConnection.class
+model\Sertifikati.class
+model\User.class
+service\SertifikatManager.class
